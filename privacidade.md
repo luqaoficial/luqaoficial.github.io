@@ -48,8 +48,8 @@ Nos termos da Lei Geral de Proteção de Dados (LGPD), você pode pedir acesso, 
 
 ## Exclusão de dados
 
-Para pedir a exclusão dos seus dados, envie um e-mail para ondecomprar.ai@gmail.com com o número de telefone usado na conversa. Respondemos em até 15 dias.
+Para pedir a exclusão dos seus dados, envie um e-mail para luqaoficial@gmail.com com o número de telefone usado na conversa. Respondemos em até 15 dias.
 
 ## Contato
 
-Dúvidas sobre esta política: ondecomprar.ai@gmail.com
+Dúvidas sobre esta política: luqaoficial@gmail.com
