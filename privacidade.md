@@ -4,9 +4,13 @@ title: Política de Privacidade da Luqa
 
 # Política de Privacidade
 
-Última atualização: 16 de outubro de 2026
+Última atualização: 29 de outubro de 2026
 
 A Luqa oferece sistemas, inteligência artificial e automação para empresas, incluindo atendimento automatizado pelo WhatsApp em nome dos nossos clientes. Esta política explica quais dados tratamos nesse atendimento, para quê e com quem eles são compartilhados.
+
+## Quem é o responsável
+
+A Luqa é o nome fantasia de 59.327.461 LUCAS GABRIEL DOS SANTOS, CNPJ 59.327.461/0001-16, Rua João Sperandio, 28, Jardim Acapulco, Itajobi/SP, CEP 15840-294. Contato: contato@luqa.com.br.
 
 ## Quais dados tratamos
 
@@ -34,7 +38,10 @@ Para o serviço funcionar, os dados passam por fornecedores que atuam em nosso n
 
 - Meta (WhatsApp Business Platform), que entrega as mensagens;
 - Supabase, onde os dados ficam armazenados;
-- Anthropic, que fornece o modelo de inteligência artificial usado para gerar as respostas.
+- Anthropic, que fornece o modelo de inteligência artificial usado para gerar as respostas;
+- Google (Gemini), usado para transcrever áudios e ler imagens e documentos enviados na conversa.
+
+Alguns desses fornecedores processam dados fora do Brasil, com as garantias previstas na LGPD.
 
 A empresa com quem você está conversando também tem acesso à conversa.
 
@@ -48,8 +55,8 @@ Nos termos da Lei Geral de Proteção de Dados (LGPD), você pode pedir acesso, 
 
 ## Exclusão de dados
 
-Para pedir a exclusão dos seus dados, envie um e-mail para luqaoficial@gmail.com com o número de telefone usado na conversa. Respondemos em até 15 dias.
+Para pedir a exclusão dos seus dados, envie um e-mail para contato@luqa.com.br com o número de telefone usado na conversa. Respondemos em até 15 dias.
 
 ## Contato
 
-Dúvidas sobre esta política: luqaoficial@gmail.com
+Dúvidas sobre esta política: contato@luqa.com.br
